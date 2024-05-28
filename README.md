@@ -42,12 +42,18 @@ Baseie-se no conteúdo do site https://www.nejm.org/ai-in-medicine para escrever
         </tbody>
 </table>
 
-# Lexica.art：
+## Lexica.art：
 No léxica utilizei o acervo público de imagens geradas por outras pessoas, os termos de pesquisa foram: radiology, ai in medicine
 
-#✨ Features
+## ✨ Features：
 Conteúdo gerado via ChatGPT e revisado pelo autor
 Imagens do acervo público geradas via Lexica.art
+
+
+
+
+
+
 
 
 
