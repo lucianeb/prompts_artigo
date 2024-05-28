@@ -1,5 +1,6 @@
+<img src="https://github.com/lucianeb/prompts_artigo/blob/main/artigo.png" alt="ChatGPT" width="340" height="240"/>
 <h1>
-    <span> Projeto de Artigo Técnico produzido por IA do Curso de Fundamentos de IA para DEVs da DIO</span>
+       <span> Projeto de Artigo Técnico produzido por IA do Curso de Fundamentos de IA para DEVs da DIO</span>
 </h1>
 
 Clique aqui pare ler o ebook [Inteligência Artificial na Saúde : Desafios Éticos e Caminhos para o Futuro](https://web.dio.me/articles/inteligencia-artificial-na-saude-desafios-eticos-e-caminhos-para-o-futuro?back=%2Farticles&open-modal=true&page=1&order=oldest).
